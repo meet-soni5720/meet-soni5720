@@ -13,7 +13,7 @@
 <a href="https://www.facebook.com/profile.php?id=100012258937087">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="mastermeet5720@gmail.com">
+<a href="mailto:mastermeet5720@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
