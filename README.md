@@ -24,12 +24,12 @@
 ### 💥 Little bit about me: 
 <ul>
   <li> Ml enthusiast ❤️</li>
-  <li> Pursuing bachelors degree in computer engineering from sardar vallabhbhai national institute of technology, surat, india 🎓
+  <li> Pursuing bachelors degree in computer engineering from NIT Surat, india 🎓
   <li> Working on NLP, Computer Vision and Datascience projects 🔭</li>
   <li> Know little bit of web dev 💻</li>
   <li> Hard core anime lover 	(◕‿◕)</li>
-  <li> Enjoy good and thoughtful discussion 💯</li>
-  <li> Sports lover especially football and cricket ⚽️🏻🏏</li>
+  <li> Enjoy good and thoughtful discussions 💯</li>
+  <li> Love sports, especially football and cricket ⚽️🏻🏏</li>
   <li> Enjoy good read 📚</li>
 </ul>
 
