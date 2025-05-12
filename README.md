@@ -26,7 +26,7 @@
   <li> Software Engineer ❤️</li>
   <li> Pursuing MS in Computer Engineering from SUNY- Stony Brook 🎓
   <li> Working on NLP, Computer Vision and Data Science projects 🔭</li>
-  <li> Hard core anime lover 	(◕‿◕)</li>
+  <li> Anime fan 	(◕‿◕)</li>
   <li> Enjoy good and thoughtful discussions 💯</li>
   <li> Love sports, especially football and cricket ⚽️🏻🏏</li>
   <li> Enjoy good read 📚</li>
